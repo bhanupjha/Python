@@ -36,6 +36,7 @@
 # b = 8
 # isGreater(a, b)
 # calculateGmean(a, b)
+
 # c = 8
 # d = 74
 # isGreater(c, d)
