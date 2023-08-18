@@ -48,33 +48,30 @@
 
 # average(8,9)
 
-# ************Variable-length arguments*********
+# ************Variable-length arguments*********s
+# 1. Arbitary Argument
 # def name(*name):
 #     print("Hello,", name[0], name[1], name[2])
 
 # name("James", "Buchanan", "Barnes")
 
-def average(*numbers):
-  print(type(numbers))
-  sum = 0
-  for i in numbers:
-    print(i)
-    sum = sum + i
-  print("Average is: ", sum / len(numbers))
-  # return 7
-  # return sum / len(numbers)
+# def average(*numbers):
+#   print(type(numbers))
+#   sum = 0
+#   for i in numbers:
+#     print(i)
+#     sum = sum + i
+#   print("Average is: ", sum / len(numbers))
+#   # return 7   # if we return 7 then c store only 7
+#   return sum / len(numbers)
 
-
-average(4, 6)
-# average(b=9)
-
-# c = average(5, 6, 7, 1)
+# average(4, 6)
+# c = average(4, 6,7,3,1)
 # print(c)
 
-
+# 2. keyword Arbitary Arguments
 # def name(**name):
-#   # print(type(name))
-#   print("Hello,", name["fname"], name["mname"], name["lname"])
+#     print(type(name))
+#     print("Hello,", name["fname"], name["mname"], name["lname"])
 
-
-# name(mname="Buchanan", lname="Barnes", fname="James")
+# name(mname = "Buchanan", lname = "Barnes", fname = "James")
