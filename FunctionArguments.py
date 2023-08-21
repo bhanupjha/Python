@@ -77,7 +77,7 @@
 # name(mname = "Buchanan", lname = "Barnes", fname = "James")
 
 # ***********return statement**************
-def name(fname, mname, lname):
-    return "Hello, " + fname + " " + mname + " " + lname
+# def name(fname, mname, lname):
+#     return "Hello, " + fname + " " + mname + " " + lname
 
-print(name("James", "Buchanan", "Barnes"))
+# print(name("James", "Buchanan", "Barnes"))
