@@ -44,11 +44,21 @@
 # print(animals[-7:-2])	#using negative indexes
 # print(animals[len(animals)-7:len(animals)-2])	#change to positive index
 
-# printing all element
-animals1 = ["cat", "dog", "bat", "mouse", "pig", "horse", "donkey", "goat", "cow"]
-print(animals1[4:])	#using positive indexes
-print(animals1[-4:])	#using negative indexes
-print(animals1[len(animals1)-4:])
+# animals1 = ["cat", "dog", "bat", "mouse", "pig", "horse", "donkey", "goat", "cow"]
+# print(animals1[4:])	#using positive indexes
+# print(animals1[-4:])	#using negative indexes
+# print(animals1[len(animals1)-4:])
 
+# animals2 = ["cat", "dog", "bat", "mouse", "pig", "horse", "donkey", "goat", "cow"]
+# print(animals2[:6])	#using positive indexes
+# print(animals2[:-3])	#using negative indexes
+# print(animals2[:len(animals2)-3])	
 
+# animals3 = ["cat", "dog", "bat", "mouse", "pig", "horse", "donkey", "goat", "cow"]
+# print(animals3[::2])		#using positive indexes
+# print(animals3[-8:-1:2])	#using negative indexes
+# print(animals3[len(animals3)-8:len(animals3)-1:2])	
+
+# animals4 = ["cat", "dog", "bat", "mouse", "pig", "horse", "donkey", "goat", "cow"]
+# print(animals4[1:8:3])
 
