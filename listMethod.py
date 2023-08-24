@@ -67,6 +67,6 @@
 # print(colors)
 
 # ***********Concatenating two lists******
-colors = ["voilet", "indigo", "blue", "green"]
-colors2 = ["yellow", "orange", "red"]
-print(colors + colors2)
+# colors = ["voilet", "indigo", "blue", "green"]
+# colors2 = ["yellow", "orange", "red"]
+# print(colors + colors2)
