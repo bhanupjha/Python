@@ -25,7 +25,7 @@
 # print(marks[-8]) # Negative index
 # print(marks[len(marks)-8]) # change to Positive index
 
-# *********Check  an item present inn the list or not?*************
+# *********Check  an item present in the list or not?*************
 # colors2 = ["Red", "Green","Yellow", "Blue", "Green"]
 # if "Yellow" in colors2:
 #     print("Yellow in present in the list")
