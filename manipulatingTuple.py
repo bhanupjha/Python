@@ -24,11 +24,11 @@
 # print("count of 3 in tuple1 is: ", res)
 
 #**********index() method******************
-tuple1 = (0,  1,  2,  3,  2,  3,  1,  3,  2)
-#  #     [0] [1] [2] [3] [4] [5] [6] [7] [8]
-print("length of tuple1 is: ",len(tuple1))
-res = tuple1.index(2)  # if the element is not present, raises value error
-# First occurence in selected portion, syntax: tuple1.index(element, start, end)
-res1 = tuple1.index(3,4,8) 
-print("First occurence of 2 is: ", res) 
-print("First occurence of 3 in selected index: ", res1) 
+# tuple1 = (0,  1,  2,  3,  2,  3,  1,  3,  2)
+# #  #     [0] [1] [2] [3] [4] [5] [6] [7] [8]
+# print("length of tuple1 is: ",len(tuple1))
+# res = tuple1.index(2)  # if the element is not present, raises value error
+# # First occurence in selected portion, syntax: tuple1.index(element, start, end)
+# res1 = tuple1.index(3,4,8) 
+# print("First occurence of 2 is: ", res) 
+# print("First occurence of 3 in selected index: ", res1) 
