@@ -2,7 +2,7 @@
 import time
 timestamp = time.strftime('%H:%M:%S') # strftime is function which is gives hour and minute
 # The return value of strftime() is a string
-name = input("Enter you name: ")
+name = input("Enter you name:  ")
 hour = int(time.strftime("%H"))
 # hour = int(input("Enter hour: "))
 # print(hour)
