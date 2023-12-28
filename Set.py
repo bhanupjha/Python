@@ -1,3 +1,6 @@
+# sets are unordered collection, unchangable, seperated by commas, enclosed within{}, 
+# Do not contain duplicate items.
+
 # s = {2, 4, 6, 2}
 # print(s)
 
