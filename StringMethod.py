@@ -1,5 +1,5 @@
 #string are immutable
-str1 = "Bhanu"
+str1 = "Bhanu_prakash"
 print(len(str1))
 
 #*******upper() method**********

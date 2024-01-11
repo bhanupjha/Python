@@ -1,1 +1,2 @@
-colors = ["voilet", "green", "indigo", "blue", "green"]
+str1 = "Bhanu_prakash"
+print(len(str1))
