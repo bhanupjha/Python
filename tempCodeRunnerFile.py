@@ -1,2 +1,2 @@
-str1 = "Bhanu_prakash"
-print(len(str1))
+str1 = "WORLD HEALTH ORGANIZATION" 
+print(str1.isupper())
